@@ -1,0 +1,116 @@
+id: 112a5a5320014ae5a9bd529db32727f6
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: 9149d87d5ec940528ce1c1163b03c088
+  span:
+    start: 1765
+    end: 2013
+- id: 624fa1df6efd4bf5877db0f58f8fc054
+  span:
+    start: 5416
+    end: 5560
+- id: 8445244340fc4addb73f637793a6f8ad
+  span:
+    start: 11655
+    end: 12094
+- id: 5ede0002ec2b4251afc8fe985c5f9606
+  span:
+    start: 14460
+    end: 14539
+- id: 0d2e48b7345d4dc7bfafdd0db09f3c20
+  span:
+    start: 18077
+    end: 18465
+- id: 66c41f4f3da0468fa7104d6afd086f2c
+  span:
+    start: 27240
+    end: 27251
+- id: 451789e5a1814ce8b317e591ce42338e
+  span:
+    start: 28869
+    end: 28920
+- id: 8012a47dedf44af796920e047234143d
+  span:
+    start: 30435
+    end: 30866
+- id: 8f810ad5923b4a86847b62d3b8ef3ef0
+  span:
+    start: 32505
+    end: 32864
+- id: ab344fbeea914bc685848766aff46f53
+  span:
+    start: 34300
+    end: 34876
+- id: f96bbf63f4da4976b6108dbfbcb33fa8
+  span:
+    start: 36845
+    end: 36860
+- id: 1f8e7792384a417cb75f78ac953c74bd
+  span:
+    start: 38873
+    end: 39275
+- id: d9f0bc14ffbb4545b68f2255725cfdd4
+  span:
+    start: 42606
+    end: 42849
+- id: 25000dd84e24428b99d370b556102a22
+  span:
+    start: 44151
+    end: 44445
+- id: 2c313659cea9475880d10ab391e02eaf
+  span:
+    start: 44577
+    end: 44802
+- id: a57c3955feb942788c806539d7e2ff67
+  span:
+    start: 44881
+    end: 44920
+- id: ca3e171de11f45bfa3e009d3088898ef
+  span:
+    start: 45186
+    end: 45203
+- id: 25593a508ca34b758d1fbc4e88590aed
+  span:
+    start: 45291
+    end: 45309
+- id: bf18cfd6af17400fa35c72648000ae43
+  span:
+    start: 45739
+    end: 45771
+- id: 258d2462a36f4a6396e26b99dff2f319
+  span:
+    start: 45911
+    end: 45951
+- id: 228c6f8935e44c87926233b1f2b81c62
+  span:
+    start: 46494
+    end: 46537
+- id: 16b0fe1d1422408bb0ec714558f13ead
+  span:
+    start: 48454
+    end: 48488
+- id: 0345e9de8ab64bb1b9287aa4eee4f4c2
+  span:
+    start: 52950
+    end: 53926
+- id: 088250e7310b4a479a85a602a9669a18
+  span:
+    start: 62392
+    end: 62448
+- id: 70c5e9c9062f4e61b0abe0bf1b810278
+  span:
+    start: 65557
+    end: 65611
+- id: adc6283d13cb4a2b8cb97691d9e03add
+  span:
+    start: 67000
+    end: 67009
+- id: 5afa747cb78b4da88c6fd5bef1baadc4
+  span:
+    start: 68943
+    end: 68951
+- id: 63820cead3fe49daa78f0af4b407d9ab
+  span:
+    start: 70265
+    end: 70283
