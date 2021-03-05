@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000014
+initial_creation_type: ebook
+source_metadata:
   title: མགུར་འབུམ་རྡོ་རྗེའི་གླུ།
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-17
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-DKR-17
 web_metadata:
   title:
     en: The Song of Vajra:The Collected Spiritual Songs
